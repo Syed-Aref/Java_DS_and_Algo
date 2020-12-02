@@ -114,7 +114,7 @@ class LinkedList {
 
 
 
-public class MainClassLL_doublycircularll {
+public class MainClassLLManual_doublycircularll {
 
 	public static void main(String[] args) {
 		LinkedList l = new LinkedList();
