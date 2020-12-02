@@ -95,7 +95,7 @@ class LinkedList {
 }
 
 
-public class MainClassLL_singlycircularll {
+public class MainClassLLManual_singlycircularll {
 	public static void main(String[] args) {
 		
 		LinkedList l = new LinkedList();
