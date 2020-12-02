@@ -97,7 +97,7 @@ class LinkedList {
 }
 
 
-public class MainClassLL_doublycircularllusingsentinel {
+public class MainClassLLManual_doublycircularllusingsentinel {
 
 	public static void main(String[] args) {
 		LinkedList l = new LinkedList();
