@@ -154,7 +154,7 @@ class LinkedList {
 }
 
 
-public class MainClassLL_singlyll {
+public class MainClassLLManual_singlyll {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
