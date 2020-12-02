@@ -188,7 +188,7 @@ class LinkedList {
 }
 
 
-public class MainClassLL_doublyll {
+public class MainClassLLManual_doublyll {
 
 	public static void main(String[] args) {
 		LinkedList l = new LinkedList();
