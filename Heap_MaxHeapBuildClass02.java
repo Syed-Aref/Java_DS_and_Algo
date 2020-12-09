@@ -1,7 +1,7 @@
 package heap;
 import java.util.Arrays;
 import java.util.Scanner;
-public class MaxHeapBuildClass02 {
+public class Heap_MaxHeapBuildClass02 {
 	static int[] a = new int[0];
 	static int heapSize;
 	static void initializeHeapSize()
