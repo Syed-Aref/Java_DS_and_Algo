@@ -2,7 +2,7 @@ package heap;
 
 import java.util.Arrays;
 
-public class HeapSortClass01 {
+public class Heap_HeapSortClass01 {
 	static int heapSize;
 	static void initializeHeapSize(int[] a)
 	{
